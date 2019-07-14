@@ -1,0 +1,19 @@
+D:\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+D:\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.exe
+D:\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.pdb
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csprojResolveAssemblyReference.cache
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.Form1.resources
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.Cache
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.exe
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.pdb
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\bin\Debug\CalculatorPro.exe
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\bin\Debug\CalculatorPro.pdb
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\obj\Debug\CalculatorPro.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\obj\Debug\CalculatorPro.Form1.resources
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\obj\Debug\CalculatorPro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\obj\Debug\CalculatorPro.exe
+C:\Users\user\Desktop\New folder\C#\CalculatorPro\obj\Debug\CalculatorPro.pdb

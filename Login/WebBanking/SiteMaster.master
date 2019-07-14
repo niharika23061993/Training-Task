@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="SiteMaster.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+    <div>
+       
+               <h1>Login</h1>
+        
+      <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" Orientation="Horizontal">
+  <Items>
+                <asp:MenuItem NavigateUrl="#" text="Menu" >
+                    
+                      <asp:MenuItem NavigateUrl="~/BankEntry.aspx" Text="BankEntry" Value="BankEntry"></asp:MenuItem>
+                    
+             
+                     
+                  
+                </asp:MenuItem>
+            </Items>
+        </asp:Menu>
+        
+        </div>
+
+         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+ 
+        </asp:ContentPlaceHolder>
+
+
+
+    </form>
+
+
+</body>
+</html>

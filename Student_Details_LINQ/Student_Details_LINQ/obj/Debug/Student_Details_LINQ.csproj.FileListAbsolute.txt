@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Student_Details_LINQ\Student_Details_LINQ\obj\Debug\Student_Details_LINQ.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Student_Details_LINQ\Student_Details_LINQ\obj\Debug\Student_Details_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Student_Details_LINQ\Student_Details_LINQ\bin\Debug\Student_Details_LINQ.exe.config
+C:\Users\user\source\repos\Student_Details_LINQ\Student_Details_LINQ\bin\Debug\Student_Details_LINQ.exe
+C:\Users\user\source\repos\Student_Details_LINQ\Student_Details_LINQ\bin\Debug\Student_Details_LINQ.pdb
+C:\Users\user\source\repos\Student_Details_LINQ\Student_Details_LINQ\obj\Debug\Student_Details_LINQ.exe
+C:\Users\user\source\repos\Student_Details_LINQ\Student_Details_LINQ\obj\Debug\Student_Details_LINQ.pdb
+C:\Users\user\source\repos\NewRepo\Training-Task\Student_Details_LINQ\Student_Details_LINQ\bin\Debug\Student_Details_LINQ.exe.config
+C:\Users\user\source\repos\NewRepo\Training-Task\Student_Details_LINQ\Student_Details_LINQ\bin\Debug\Student_Details_LINQ.exe
+C:\Users\user\source\repos\NewRepo\Training-Task\Student_Details_LINQ\Student_Details_LINQ\bin\Debug\Student_Details_LINQ.pdb
+C:\Users\user\source\repos\NewRepo\Training-Task\Student_Details_LINQ\Student_Details_LINQ\obj\Debug\Student_Details_LINQ.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NewRepo\Training-Task\Student_Details_LINQ\Student_Details_LINQ\obj\Debug\Student_Details_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NewRepo\Training-Task\Student_Details_LINQ\Student_Details_LINQ\obj\Debug\Student_Details_LINQ.exe
+C:\Users\user\source\repos\NewRepo\Training-Task\Student_Details_LINQ\Student_Details_LINQ\obj\Debug\Student_Details_LINQ.pdb

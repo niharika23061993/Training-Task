@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Let_Condition_LINQ\Let_Condition_LINQ\bin\Debug\Let_Condition_LINQ.exe.config
+C:\Users\user\source\repos\Let_Condition_LINQ\Let_Condition_LINQ\bin\Debug\Let_Condition_LINQ.exe
+C:\Users\user\source\repos\Let_Condition_LINQ\Let_Condition_LINQ\bin\Debug\Let_Condition_LINQ.pdb
+C:\Users\user\source\repos\Let_Condition_LINQ\Let_Condition_LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Let_Condition_LINQ\Let_Condition_LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Let_Condition_LINQ\Let_Condition_LINQ\obj\Debug\Let_Condition_LINQ.exe
+C:\Users\user\source\repos\Let_Condition_LINQ\Let_Condition_LINQ\obj\Debug\Let_Condition_LINQ.pdb

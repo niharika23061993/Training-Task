@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Threading_lock\Threading_lock\bin\Debug\Threading_lock.exe.config
+C:\Users\user\source\repos\Threading_lock\Threading_lock\bin\Debug\Threading_lock.exe
+C:\Users\user\source\repos\Threading_lock\Threading_lock\bin\Debug\Threading_lock.pdb
+C:\Users\user\source\repos\Threading_lock\Threading_lock\obj\Debug\Threading_lock.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Threading_lock\Threading_lock\obj\Debug\Threading_lock.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Threading_lock\Threading_lock\obj\Debug\Threading_lock.exe
+C:\Users\user\source\repos\Threading_lock\Threading_lock\obj\Debug\Threading_lock.pdb

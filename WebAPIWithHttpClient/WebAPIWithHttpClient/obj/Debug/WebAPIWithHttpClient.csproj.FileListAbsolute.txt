@@ -1,0 +1,118 @@
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\ApplicationInsights.config
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\csc.exe
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\vbc.exe
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\VBCSCompiler.exe
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\WebAPIWithHttpClient.dll.config
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\WebAPIWithHttpClient.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\WebAPIWithHttpClient.pdb
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\EntityFramework.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\EntityFramework.SqlServer.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.DependencyCollector.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.Web.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.WindowsServer.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.ApplicationInsights.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Newtonsoft.Json.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Net.Http.Formatting.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Helpers.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Http.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Http.WebHost.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Mvc.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Razor.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.Deployment.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.Razor.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\EntityFramework.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\EntityFramework.SqlServer.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.DependencyCollector.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.Web.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.WindowsServer.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.ApplicationInsights.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Razor.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.Deployment.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.Razor.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Helpers.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Mvc.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Newtonsoft.Json.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Net.Http.Formatting.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Http.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Http.WebHost.xml
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\obj\Debug\WebAPIWithHttpClient.csprojResolveAssemblyReference.cache
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\obj\Debug\WebAPIWithHttpClient.dll
+E:\Visual Studio\WebAPIWithHttpClient\WebAPIWithHttpClient\obj\Debug\WebAPIWithHttpClient.pdb
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\ApplicationInsights.config
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\WebAPIWithHttpClient.dll.config
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\WebAPIWithHttpClient.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\WebAPIWithHttpClient.pdb
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\EntityFramework.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Http.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\EntityFramework.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Http.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\obj\Debug\WebAPIWithHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\obj\Debug\WebAPIWithHttpClient.csproj.CopyComplete
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\obj\Debug\WebAPIWithHttpClient.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\obj\Debug\WebAPIWithHttpClient.pdb
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\csc.exe
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClient\WebAPIWithHttpClient\obj\Debug\WebAPIWithHttpClient.csprojAssemblyReference.cache

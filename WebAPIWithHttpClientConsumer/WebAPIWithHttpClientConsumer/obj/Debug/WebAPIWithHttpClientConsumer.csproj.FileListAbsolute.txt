@@ -1,0 +1,26 @@
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.exe.config
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.exe
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.pdb
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\System.Net.Http.Formatting.DLL
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.csprojResolveAssemblyReference.cache
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.exe
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.pdb
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\Newtonsoft.Json.DLL
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.exe.config
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.exe
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.pdb
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.csproj.CopyComplete
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.exe
+C:\Users\user\Desktop\New folder (2)\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.pdb
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.exe.config
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.exe
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.pdb
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.csproj.CopyComplete
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.exe
+C:\Users\user\source\repos\NewRepo\Training-Task\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.pdb

@@ -17,22 +17,22 @@ namespace WebAPIWithHttpClientConsumer
             cons.DefaultRequestHeaders.Accept.Clear();
             cons.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));            
             
-           // MyAPIPut(cons).Wait();
-            //MyAPIDelete(cons).Wait();
-           MyAPIPost(cons).Wait();
+            //MyAPIPut(cons).Wait();
+            MyAPIDelete(cons).Wait();
+           //MyAPIPost(cons).Wait();
         }
         static async Task MyAPIPut(HttpClient cons)
         {
             using (cons)
             {
-                HttpResponseMessage res = await cons.GetAsync("api/Employees/4");
+                HttpResponseMessage res = await cons.GetAsync("api/Employees/7");
                 res.EnsureSuccessStatusCode();
                 if (res.IsSuccessStatusCode)
                 {
                     Employee Emp = await res.Content.ReadAsAsync<Employee>();
                     Emp.EmpName = "Merry";
                     Emp.EmpRole = "business analyst";
-                    res = await cons.PutAsJsonAsync("api/Employees/4", Emp);
+                    res = await cons.PutAsJsonAsync("api/Employees/7", Emp);
                    
                     Console.WriteLine("-----------------------------------------------------------");
                     Console.WriteLine("Put Operation");
@@ -51,11 +51,11 @@ namespace WebAPIWithHttpClientConsumer
         {
             using (cons)
             {
-                HttpResponseMessage res = await cons.GetAsync("api/Employees/4");
+                HttpResponseMessage res = await cons.GetAsync("api/Employees/7");
                 res.EnsureSuccessStatusCode();
                 if (res.IsSuccessStatusCode)
                 {
-                    res = await cons.DeleteAsync("api/Employees/4");
+                    res = await cons.DeleteAsync("api/Employees/7");
                     Console.WriteLine("\n");
                     Console.WriteLine(" Delete Operation Completed successfully");
                

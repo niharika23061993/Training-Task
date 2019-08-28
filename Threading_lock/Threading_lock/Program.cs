@@ -18,6 +18,7 @@ namespace Threading_lock
                 {
                     Thread.Sleep(100);
                     Console.WriteLine(Environment.TickCount);
+                Console.ReadLine();
                 }
             }
             static void Main()

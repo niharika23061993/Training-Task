@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\FileConcept\FileConcept\bin\Debug\FileConcept.exe.config
+C:\Users\user\source\repos\FileConcept\FileConcept\bin\Debug\FileConcept.exe
+C:\Users\user\source\repos\FileConcept\FileConcept\bin\Debug\FileConcept.pdb
+C:\Users\user\source\repos\FileConcept\FileConcept\obj\Debug\FileConcept.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileConcept\FileConcept\obj\Debug\FileConcept.exe
+C:\Users\user\source\repos\FileConcept\FileConcept\obj\Debug\FileConcept.pdb
+C:\Users\user\source\repos\FileConcept\FileConcept\obj\Debug\FileConcept.csprojAssemblyReference.cache

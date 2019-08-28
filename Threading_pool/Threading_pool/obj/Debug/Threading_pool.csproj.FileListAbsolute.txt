@@ -5,3 +5,10 @@ C:\Users\user\source\repos\Threading_pool\Threading_pool\obj\Debug\Threading_poo
 C:\Users\user\source\repos\Threading_pool\Threading_pool\obj\Debug\Threading_pool.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\Threading_pool\Threading_pool\obj\Debug\Threading_pool.exe
 C:\Users\user\source\repos\Threading_pool\Threading_pool\obj\Debug\Threading_pool.pdb
+C:\Users\user\source\repos\NewRepo\Training-Task\Threading_pool\Threading_pool\bin\Debug\Threading_pool.exe.config
+C:\Users\user\source\repos\NewRepo\Training-Task\Threading_pool\Threading_pool\bin\Debug\Threading_pool.exe
+C:\Users\user\source\repos\NewRepo\Training-Task\Threading_pool\Threading_pool\bin\Debug\Threading_pool.pdb
+C:\Users\user\source\repos\NewRepo\Training-Task\Threading_pool\Threading_pool\obj\Debug\Threading_pool.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NewRepo\Training-Task\Threading_pool\Threading_pool\obj\Debug\Threading_pool.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NewRepo\Training-Task\Threading_pool\Threading_pool\obj\Debug\Threading_pool.exe
+C:\Users\user\source\repos\NewRepo\Training-Task\Threading_pool\Threading_pool\obj\Debug\Threading_pool.pdb

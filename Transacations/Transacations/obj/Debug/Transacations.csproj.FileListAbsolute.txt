@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Transacations\Transacations\bin\Debug\Transacations.exe.config
+C:\Users\user\source\repos\Transacations\Transacations\bin\Debug\Transacations.exe
+C:\Users\user\source\repos\Transacations\Transacations\bin\Debug\Transacations.pdb
+C:\Users\user\source\repos\Transacations\Transacations\obj\Debug\Transacations.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Transacations\Transacations\obj\Debug\Transacations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Transacations\Transacations\obj\Debug\Transacations.exe
+C:\Users\user\source\repos\Transacations\Transacations\obj\Debug\Transacations.pdb
